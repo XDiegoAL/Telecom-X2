@@ -33,6 +33,8 @@ Las variables que más impactan la predicción de cancelación incluyen:
 ▶️ Cómo Ejecutar
 Clonar el repositorio
 Instalar las dependencias:
+
 pip install -r requirements.txt
+
 👤 Autor
 Diego Aylas - Alura Latam
